@@ -117,7 +117,7 @@ open CryptoRank.xcodeproj
 
 ***
 
-## **Project Structure (Recommended)**
+## **Project Structure**
 
     CryptoRank/
     │
